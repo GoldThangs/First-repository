@@ -1,4 +1,4 @@
-﻿var a,b,c:integer;
+﻿var a,b,c,d:integer;
 begin
 Writeln('Введите первое число');
 read(a);
